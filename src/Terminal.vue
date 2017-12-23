@@ -17,9 +17,10 @@ export default {
   },
   data () {
     return {
-      introText: `Welcome to my website ..
-
-Hi there!
+      introText: `Welcome to my website Reingineering.nl.
+My name is 'Rein Appeldoorn': a mechanical engineer with a passion for Software & Robotics! Check out my Linkedin Page, the website of RUVU Robotics or send me and email!
+Cheers,
+Rein Appeldoorn
 `
     }
   }
@@ -41,10 +42,13 @@ Hi there!
   -ms-transition: all 0.5s ease-out;
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
+  color: black;
 }
 
 .terminal-wrap .custom.char {
   color: white;
+  font-size: 13px;
+  line-height: 13px;
 }
 
 .terminal-title {
