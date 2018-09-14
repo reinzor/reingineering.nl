@@ -18,7 +18,7 @@ export default {
   data () {
     return {
       introText: `Welcome to my website Reingineering.nl.
-My name is 'Rein Appeldoorn': a mechanical engineer with a passion for Software & Robotics! Check out my Linkedin Page, the website of RUVU Robotics or send me and email!
+My name is 'Rein Appeldoorn': a mechanical engineer with a passion for Software & Robotics! Check out my Linkedin Page, my Github or send me an email!
 Cheers,
 Rein Appeldoorn
 `
