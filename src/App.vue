@@ -6,7 +6,6 @@
       <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav class="ml-auto">
           <b-nav-item href="mailto:info@reingineering.nl">Email</b-nav-item>
-          <b-nav-item href="http://ruvu.nl">RUVU.nl</b-nav-item>
           <b-nav-item href="https://www.linkedin.com/in/rein-appeldoorn-a2b17930">Linkedin</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
@@ -30,7 +29,7 @@
     </b-container>
     <footer class="footer">
       <div class="container">
-        <small>copyright 2017 - reingineering.nl</small>
+        <small>copyright 2017-2018 - reingineering.nl</small>
       </div>
     </footer>
   </div>
